@@ -16,5 +16,16 @@
     <br/>
     <br/>
     🌐 Check out my personal website <a href="https://portfolio-eight-kappa-66.vercel.app/">here</a>
-    
+</div>
+
+<div align="center">
+    <a href="mailto:mateuszmartyna44@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://www.linkedin.com/in/mateuszmartyna/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://portfolio-eight-kappa-66.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+    </a>
 </div>
