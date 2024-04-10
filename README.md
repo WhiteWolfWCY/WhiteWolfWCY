@@ -18,6 +18,9 @@
     🌐 Check out my personal website <a href="https://portfolio-eight-kappa-66.vercel.app/">here</a>
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
     <a href="mailto:mateuszmartyna44@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
