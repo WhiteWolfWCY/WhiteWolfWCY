@@ -61,9 +61,9 @@
 <h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <div align="center">
+    <img width=325 align="center" src="https://streak-stats.demolab.com/?user=WhiteWolfWCY&theme=dark" alt="top langs" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=WhiteWolfWCY&show_icons=true&theme=radical" alt="readme stats" />
     <br/>
     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWolfWCY&layout=compact&theme=radical" alt="Language stats"/>
-    <br/>
-    <img width=325 align="center" src="https://streak-stats.demolab.com/?user=WhiteWolfWCY" alt="top langs" />
+    
 </div>    
