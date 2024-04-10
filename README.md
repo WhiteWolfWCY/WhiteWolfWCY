@@ -35,11 +35,23 @@
 
 <hr/>
 
-<h2 align="center">🧰 Languages - Frameworks - Tools</h2>
+<h2 align="center">🧰 Languages - Frameworks - Tools 🧰</h2>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,js,express,mongodb,mysql" /><br>
         <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,python,c,cpp,bash" />
     </a>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+    <h2>🌿 My Contributions</h2>
+    <br>
+    <img alt="snake eating my contributions" src="" />
+    <br/>
+    <br/>
+    <br/>
 </div>
