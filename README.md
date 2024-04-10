@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,js,express,mongodb" /><br>
-        <img src="https://skillicons.dev/icons?i=github,bootstrap,python,c,cpp,bash" />
+        <img src="https://skillicons.dev/icons?i=next,ts,react,tailwind,nodejs,js,express,mongodb,mysql" /><br>
+        <img src="https://skillicons.dev/icons?i=github,git,html,css,bootstrap,python,c,cpp,bash" />
     </a>
 </div>
