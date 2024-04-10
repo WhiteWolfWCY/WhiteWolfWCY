@@ -63,7 +63,6 @@
 <div align="center">
     <img width=400 height=150 src="https://streak-stats.demolab.com/?user=WhiteWolfWCY&theme=dark" alt="streaks" />
     <img width=400 height=150 src="https://github-readme-stats.vercel.app/api?username=WhiteWolfWCY&show_icons=true&theme=radical" alt="commits stats" />
-    <br/>
-    <img width=800 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWolfWCY&layout=compact&theme=radical" alt="Language stats"/>
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWolfWCY&layout=compact&theme=radical" alt="Language stats"/>
     
 </div>    
