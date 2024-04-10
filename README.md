@@ -11,7 +11,9 @@
 <div align="center">
     🛠️ I'm currently working on **a cloud storage app**
     <br/>
+    <br/>
     💡 I'm currently learning **NextJS, Tailwind and AI tools**
+    <br/>
     <br/>
     🌐 Check out my personal website <a href="https://portfolio-eight-kappa-66.vercel.app/">here</a>
     
