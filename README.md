@@ -28,7 +28,7 @@
     <a href="https://www.linkedin.com/in/mateuszmartyna/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a href="https://portfolio-eight-kappa-66.vercel.app/" target="_blank">
+    <a href="https://portfolio-v2-beta-gilt.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todolist&logoColor=white" target="_blank" />
     </a>
 </div>
