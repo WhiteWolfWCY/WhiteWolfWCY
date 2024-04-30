@@ -15,7 +15,7 @@
     💡 I'm currently learning NextJS, Tailwind and AI tools
     <br/>
     <br/>
-    🌐 Check out my personal website <a href="https://portfolio-eight-kappa-66.vercel.app/">here!</a>
+    🌐 Check out my personal website <a href="https://portfolio-v2-beta-gilt.vercel.app/">here!</a>
 </div>
 
 <br/>
