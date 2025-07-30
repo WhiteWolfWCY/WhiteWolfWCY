@@ -61,10 +61,3 @@
 <div align="center">
     <a href="https://app.daily.dev/mateuszmartyna"><img src="https://api.daily.dev/devcards/v2/BdCtIMM7RHKv26iui1QSl.png?type=default&r=08d" width="356" alt="Mateusz Martyna's Dev Card"/></a>
 </div>    
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B+Shoot+me+a+message+on+LinkedIn!+I'm+always+down+to+collab" alt="Typing SVG" /></a>
-</h3>
