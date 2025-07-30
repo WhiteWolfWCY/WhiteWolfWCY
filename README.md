@@ -58,12 +58,8 @@
 
 <hr/>
 
-<h2 align="center">🔥 Stats 🔥</h2>
-<br>
 <div align="center">
-    <img width=300 height=150 src="https://streak-stats.demolab.com/?user=WhiteWolfWCY&theme=dark" alt="streaks" />
-    <img width=300 height=150 src="https://github-readme-stats.vercel.app/api?username=WhiteWolfWCY&show_icons=true&theme=radical" alt="commits stats" />
-    <img width=300 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWolfWCY&layout=compact&theme=radical" alt="Language stats"/>
+    <a href="https://app.daily.dev/mateuszmartyna"><img src="https://api.daily.dev/devcards/v2/BdCtIMM7RHKv26iui1QSl.png?type=default&r=08d" width="356" alt="Mateusz Martyna's Dev Card"/></a>
 </div>    
 
 <br/><br/>
