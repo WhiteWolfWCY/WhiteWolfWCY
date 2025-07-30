@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WhiteWolfWCY.WhiteWolfWCY" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=200&duration=4000&lines=Hi+There!+👋;+I'm+Mateusz!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Mateusz!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Poland 🇵🇱</h3>
+<h3 align="center">I'm a software developer from Poland 🇵🇱</h3>
 
 <br/>
 
